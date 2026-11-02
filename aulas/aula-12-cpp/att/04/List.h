@@ -14,10 +14,15 @@ class List {
         Node* head; // Nó sentinela
         int length; // tamanho da lista
 
+        // Funções internas
+
+        void removeNode(Node* node); // desliga um nó da lista e libera sua memória
+
     public:
         // Inicializador e destrutor da classe
 
         List(); // Construtor padrão
+        List(const List& lst); // Construtor de cópia
         ~List(); // Destrutor
         
         // =================================================================================================
