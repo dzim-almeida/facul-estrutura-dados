@@ -1,7 +1,7 @@
 # Relatório – AC07: Lista Circular Duplamente Encadeada com Nó Cabeça
 
-**Aluno:** <SEU NOME>
-**Matrícula:** <SUA MATRÍCULA>
+**Aluno:** Carlos André Guedes de Almeida
+**Matrícula:** 604053
 **Disciplina:** QXD0010 – Estruturas de Dados
 **Professor:** Atílio Gomes Luiz
 
